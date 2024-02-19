@@ -1,0 +1,44 @@
+header {
+background-color: #CD2F23;
+padding: 10px;
+margin: 10px 0px;
+display: flex;;
+flex-direction: column;
+font-family: Helvetica;
+font-weight: 400;
+}
+
+#title, #tribute-info  {
+  color: #FFFAFA;
+  display: flex;
+  justify-content: center;
+}
+
+div p {
+  Font-family: helvetica;
+  margin: 20px;
+  justify-content: center
+}
+
+#more-info {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: #FFFAFA
+}
+
+#img-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 20 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
